@@ -3,11 +3,9 @@
 Hey! Soy yo el novato sensacion, aprendiz en todo experto en nada
 
 ```toml
-novato_profile = {
-    "name": "Jesus Ivan",
-    "self": {
-        "food": "Pizza and Shrimp",
-        "icon": "🔥"
-    }
-}
+name = "Jesus Ivan"
+
+[self]
+food = "Pizza and Shrimp"
+icon = "🔥"
 ```
