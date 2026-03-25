@@ -9,4 +9,5 @@ name = "Jesus Ivan"
 food = "Pizza and Shrimp"
 icon = "🔥"
 ```
-<<div class="tenor-gif-embed" data-postid="27141806" data-share-method="host" data-aspect-ratio="1.02564" data-width="100%"><a href="https://tenor.com/view/ippo-hajime-no-ippo-ippo-makunochi-boxing-anime-gif-27141806">Ippo Hajime No Ippo GIF</a>from <a href="https://tenor.com/search/ippo-gifs">Ippo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+![Ippo Boxing](https://media.tenor.com/E8f8_R61I30AAAAC/ippo-hajime-no-ippo.gif)
