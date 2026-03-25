@@ -9,6 +9,8 @@ name = "Jesus Ivan"
 food = "Pizza and Shrimp"
 icon = "🔥"
 ```
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2bef0f32-45a9-4e0e-ae89-2cc4e9dcb156" width="75%" alt="ippo">
+</p>
 
-<img src="https://github.com/user-attachments/assets/2bef0f32-45a9-4e0e-ae89-2cc4e9dcb156" width="100%" alt="ippo">
 
