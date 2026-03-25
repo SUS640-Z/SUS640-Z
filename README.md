@@ -10,7 +10,7 @@ food = "Pizza and Shrimp"
 icon = "🔥"
 ```
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2bef0f32-45a9-4e0e-ae89-2cc4e9dcb156" width="40%" alt="ippo">
+  <img src="https://github.com/user-attachments/assets/2bef0f32-45a9-4e0e-ae89-2cc4e9dcb156" width="55%" alt="ippo">
 </p>
 
 
