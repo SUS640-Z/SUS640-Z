@@ -3,12 +3,18 @@
 Hey! Soy yo el novato sensacion, aprendiz en todo experto en nada
 
 ```toml
-name = "Jesus Ivan"
+name = "Novato Sensacion"
 
 [self]
-food = "Pizza and Shrimp"
+food = "Pizza and Shrimp 🍕🦐"
+drink = "Water💧"
 icon = "🔥"
+
+[langs]
+fav = "Python"
+most_used = "Java"
 ```
+
 
 ## Skills
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
