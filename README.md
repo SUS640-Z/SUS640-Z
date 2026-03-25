@@ -8,6 +8,6 @@ novato_profile = {
     "self": {
         "food": "Pizza and Shrimp",
         "icon": "🔥"
-    },
+    }
 }
 ```
