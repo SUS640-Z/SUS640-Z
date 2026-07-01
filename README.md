@@ -4,14 +4,10 @@
 Hey! Soy yo el novato sensacion, aprendiz en todo experto en nada
 
 ```toml
-name = "Novato Sensacion"
-
 [self]
-food = "Pizza and Shrimp 🍕🦐"
-hobbies = "Running and Reading"
+food = "Shrimp 🦐"
+hobbies = "Running"
 drink = "Water💧"
-fav_carton = "Amphibia"
-icon = "🔥"
 
 [langs]
 fav = "Python"
